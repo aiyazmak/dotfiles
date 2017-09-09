@@ -1,0 +1,9 @@
+open .config
+o .config
+open
+
+open_with zathura
+openwith vim
+open_with thunar
+open thunar
+q
